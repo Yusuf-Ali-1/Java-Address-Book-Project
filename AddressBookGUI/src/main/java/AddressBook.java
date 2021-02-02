@@ -7,7 +7,7 @@ import javax.swing.event.*;
 
 /**
  * An interactive contact address book - starter code
- * CSCU9A2 assignment Spring 2018
+ * TTS assignment Spring 2021
  *
  * THIS STARTER CODE WORKS PARTIALLY BUT SOME METHODS REQUIRE COMPLETING - SEE FURTHER DOWN IN THIS COMMENT
  *
@@ -45,8 +45,8 @@ import javax.swing.event.*;
  *  o  the array declarations are complete and correct
  *  o  the method headers are complete and correct.
  *
- * @author     sbj
- * @version    March 2018
+ * @author     Yusuf
+ * @version    Feb 2021
  */
 @SuppressWarnings("serial")
 public class AddressBook extends JFrame implements ActionListener
